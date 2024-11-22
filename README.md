@@ -47,8 +47,7 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/user-attachments/assets/3f040b5e-74b4-4e2e-888f-5f67ac89efb0)
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
